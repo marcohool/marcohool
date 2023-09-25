@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+# Welcome to My GitHub Profile!
+
+![Profile Banner](https://media.licdn.com/dms/image/D4E03AQFG_iwP_OhwFw/profile-displayphoto-shrink_800_800/0/1694278243732?e=1701302400&v=beta&t=0HyESYo227K2qsQzTPavtvg7lMzWIzaVcwq8otUWRlU)
+
+Hello, I'm Marco Boutchelski, a passionate software engineer. You can find more about me and my projects on my personal portfolio website:
+
+🌐 [Visit My Portfolio](https://www.marcoboutchelski.com)
+
+## About Me
+
+I'm a driven and dedicated Computer Science graduate with a strong interest in software development. Here on GitHub, you'll find some of my projects and contributions to open-source.
+
+## Contact Me
+
+If you'd like to get in touch, you can reach me via [email](mailto:marco.boutchelski@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/marco-b-3244b21a5).
+
+💪
