@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # Welcome to My GitHub Profile!
 
-Hey, I'm Marco Boutchelski, a passionate software developer. You can find more about me and my projects on my personal portfolio website:
+Hi, I'm Marco Boutchelski, a passionate software developer. You can find more about me and my projects on my personal portfolio website:
 
 🌐 [Visit My Portfolio](https://www.marcoboutchelski.com)
 
