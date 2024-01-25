@@ -25,7 +25,7 @@ I'm Marco Boutchelski, a passionate software developer. You can find more about 
 
 ## About Me
 
-I'm a driven and dedicated Computer Science graduate with a strong interest in software development. Here on GitHub, you'll find some of my projects and contributions to open-source.
+I'm a driven and dedicated Computer Science graduate, currently working as a Software Developer. Here on GitHub, you'll find some of my projects and contributions to open-source.
 
 ## Contact Me
 
