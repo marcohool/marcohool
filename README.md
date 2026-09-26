@@ -1,34 +1,14 @@
-### Hello there 😎
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=460&height=40&lines=software+engineer+%40+content+guru;building+koral%3A+a+shazam+for+outfits;c%23+.+typescript+.+python+.+go" />
+    <img alt="software engineer @ content guru" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=0969DA&center=true&vCenter=true&width=460&height=40&lines=software+engineer+%40+content+guru;building+koral%3A+a+shazam+for+outfits;c%23+.+typescript+.+python+.+go" />
+  </picture>
+</p>
 
-<!--
-**marcohool/marcohool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-# Welcome to My GitHub Profile!
-
-I'm Marco Boutchelski, a passionate software developer. You can find more about me and my projects on my personal portfolio website:
-
-🌐 [Visit My Portfolio](https://www.marcoboutchelski.com)
-
-## About Me
-
-I'm a driven and dedicated Computer Science graduate, currently working as a Software Developer. Here on GitHub, you'll find some of my projects and contributions to open-source.
-
-## Contact Me
-
-If you'd like to get in touch, you can reach me via [email](mailto:marco.boutchelski@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/marco-b-3244b21a5).
-
-💪
+<p align="center">
+  <samp>
+    <a href="https://www.koralsearch.com">koral</a> .
+    <a href="https://www.linkedin.com/in/marco-b-3244b21a5">linkedin</a> .
+    <a href="mailto:marco.boutchelski@gmail.com">email</a>
+  </samp>
+</p>
