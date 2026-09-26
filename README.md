@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=460&height=40&lines=software+engineer+%40+content+guru;building+koral%3A+a+shazam+for+outfits;c%23+.+typescript+.+python+.+go" />
-    <img alt="software engineer @ content guru" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=0969DA&center=true&vCenter=true&width=460&height=40&lines=software+engineer+%40+content+guru;building+koral%3A+a+shazam+for+outfits;c%23+.+typescript+.+python+.+go" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=460&height=40&lines=software+engineer+%40+content+guru;building+koral%3A+a+shazam+for+outfits;c%23+.+typescript+.+python+.+go" />
+    <img alt="software engineer @ content guru" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=0969DA&center=true&vCenter=true&width=460&height=40&lines=software+engineer+%40+content+guru;building+koral%3A+a+shazam+for+outfits;c%23+.+typescript+.+python+.+go" />
   </picture>
 </p>
 
